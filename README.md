@@ -1,1 +1,12 @@
-# hanbnrd.github.io
+# Website
+
+
+### Run locally
+
+```
+bundle install
+```
+
+```
+bundle exec jekyll serve
+```

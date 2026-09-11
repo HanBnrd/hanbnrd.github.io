@@ -1,0 +1,21 @@
+# Website settings
+url: "https://hanbnrd.github.io" # the base hostname & protocol for your site (e.g. http://example.com)
+baseurl: "" # the subpath of your site (e.g. /blog)
+title: "Johann B" # the name of your site
+
+# User settings
+name: Johann Benerradi
+about: Researcher in neuroinformatics
+github: HanBnrd
+gitlab: HanBnrd
+linkedin: hanbnrd
+# twitter:
+scholar: qUvNB3YAAAAJ
+email: jb2615@cam.ac.uk
+
+# Asset settings
+picture: hanbnrd.jpg
+qr-code: qrcode.png
+# background-video: background.mp4
+# background-video-thumbnail: background-thumbnail.jpg
+background-image: background.jpg
